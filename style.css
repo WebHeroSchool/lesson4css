@@ -1,11 +1,13 @@
 body {
   background: url(//avatanplus.com/files/resources/original/5ba0e2f6f391e165ec7694d6.jpg);
   color: #600;
+  font-family: 'Pacifico', cursive;
 }
 .header__title {
     text-align: center;
     text-shadow: 1px 2px 5px #333;
- }
+    font-family: 'Lobster', cursive;
+   }
  .header__text, .section__article_text, .footer__text  {
    text-indent: 30px;
  }
